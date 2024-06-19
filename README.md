@@ -21,3 +21,6 @@ and run below for cleanout
 ```
 docker-compose down --rmi all
 ```
+
+## Demo
+![multithreading - shorten](https://github.com/thomas-chiang/multithreading/assets/84237929/c51a4414-8976-4a1c-8e31-89726e52eded)
